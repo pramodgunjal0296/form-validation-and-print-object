@@ -1,0 +1,16 @@
+*{
+  margin: 0;
+  padding:0;
+}
+body{
+  background-image: url("./component/images/office.jpg");
+ 
+  background-repeat: no-repeat;
+ z-index: -1; 
+ display: flex;
+ flex-wrap: wrap;
+ height: 100%;
+ visibility: visible;
+
+
+}

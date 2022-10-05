@@ -1,37 +1,37 @@
-*{
+* {
     margin: 0;
-    padding:0;
+    padding: 0;
     box-sizing: border-box;
 }
-
-.form-design{
+.form-design {
     display: flex;
     align-items: center;
     flex-wrap: wrap;
-    text-align: center;   
-    margin-top:100px;
-   margin-left:150px;
+    text-align: center;
+    
+    margin-left: 40%;
     width: 80%;
-    height:100%;
-margin-bottom: 50px;
-
-
+    height: 100%;
+    margin-bottom: 50px;
 }
 
-input{
+input {
     padding: 10px;
     border-radius: 20px;
     margin-bottom: 20px;
 }
-p{
+
+p {
     color: red;
 }
-a{
+
+a {
     color: white;
     margin-left: 100px;
     margin-bottom: 20px;
 }
-button{
+
+button {
     background-color: aqua;
     color: white;
     padding: 10px;
@@ -41,4 +41,3 @@ button{
     padding-left: 40px;
     padding-right: 40px;
 }
-

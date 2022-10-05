@@ -1,9 +1,12 @@
 .shapedividers_com-4136{
     overflow:hidden;
+    width: 130%;
+    height: 400px;
     position:relative;
-    margin-top: 60px;
-    margin-left: 150px;
+    margin-top: 80px;
+    margin-left: 120px;
     margin-bottom: 30px;
+    
     }
     .shapedividers_com-4136::before{
     content:'';

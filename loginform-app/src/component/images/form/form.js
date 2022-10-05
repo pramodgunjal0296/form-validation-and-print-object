@@ -5,6 +5,7 @@ import * as yup from "yup";
 import './form.css'
 
 
+
 const FormApp = () => {
  
 
@@ -42,7 +43,7 @@ const FormApp = () => {
       />
        <p >{errors.password?.message}</p>
 
-       <a style={{marginLeft:200}}href="#"> Forgot your password</a>
+       <a style={{marginLeft:200}} href="#"> Forgot your password</a>
        <br/>
       
 

@@ -4,13 +4,16 @@
 }
 body{
   background-image: url("./component/images/office.jpg");
- 
+  
+ background-size: cover;
   background-repeat: no-repeat;
  z-index: -1; 
  display: flex;
  flex-wrap: wrap;
  height: 100%;
  visibility: visible;
+ width: 100%;
 
 
 }
+

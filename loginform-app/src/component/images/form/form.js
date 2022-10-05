@@ -42,7 +42,8 @@ const FormApp = () => {
       />
        <p >{errors.password?.message}</p>
 
-       <a href="#"> Forgot your password</a>
+       <a style={{marginLeft:200}}href="#"> Forgot your password</a>
+       <br/>
       
 
       <button type="Submit">Login</button>

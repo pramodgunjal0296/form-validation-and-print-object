@@ -1,11 +1,11 @@
 
 import './App.css';
-import FormApp from './component/images/form/form';
+import Curve from './component/images/form/Curve';
 
 function App() {
   return (
     <div className="App">
-      <FormApp/>
+      <Curve/>
     
     </div>
   );

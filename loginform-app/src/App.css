@@ -2,9 +2,9 @@
   margin: 0;
   padding:0;
 }
+
 body{
   background-image: url("./component/images/office.jpg");
-  
  background-size: cover;
   background-repeat: no-repeat;
  z-index: -1; 
